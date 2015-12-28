@@ -4,8 +4,8 @@
 
 just for convenience a translater for english numbers.
 
-Input: 123.456
-Output: one hundred twenty three thousand five hundred sixty seven
+- Input: 123.456
+- Output: one hundred twenty three thousand five hundred sixty seven
 
 
 # Overview
